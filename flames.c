@@ -1,3 +1,4 @@
+//this program takes input of two names and calculates flames for both the names
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
